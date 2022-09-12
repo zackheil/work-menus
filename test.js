@@ -1,3 +1,5 @@
+// DISCLAIMER: I coded this on an iPhone. Please don't judge this code too hard :D
+
 const fs = FileManager.iCloud();
 const draw = new DrawContext();
 
